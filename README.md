@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Java projects.**
 
-- 👨‍💻 All of my projects are available at [To be continued](To be continued)
+- 👨‍💻 All of my projects are available at (To be continued)
 
 - 📝 I regularly write articles on […](…)
 
