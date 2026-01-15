@@ -11,7 +11,7 @@ with a strong focus on <strong>Java</strong>, <strong>software engineering funda
 </p>
 
 <p align="center">
-I use AI as a <em>development accelerator</em> — to improve design, logic, and productivity — 
+I use AI as a <em>development accelerator</em> - to improve design, logic, and productivity - 
 while ensuring I fully understand and can explain every line of code I write.
 </p>
 
