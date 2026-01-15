@@ -41,7 +41,7 @@ while ensuring I fully understand and can explain every line of code I write.
 - Advanced **Object-Oriented Programming (Java)**
 - Software design principles & best practices
 - Application logic, validation, and data handling
-- **C#** (actively expanding my language stack)
+- **C++** (actively expanding my language stack)
 
 ---
 
