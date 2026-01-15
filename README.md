@@ -1,61 +1,64 @@
 <h1 align="center">Hi 👋, I'm Codi Le Grange Slimowitz</h1>
 
 <h3 align="center">
-Bachelor of Computer & Information Sciences (Application Development) • Java Developer • Aspiring Software Engineer
+Bachelor of Computer & Information Sciences (Application Development) • Java-Focused Developer • Aspiring Software Engineer
 </h3>
 
 <p align="center">
 I’m a Computer and Information Sciences student specialising in <strong>Application Development</strong>, 
-with a strong focus on <strong>Java</strong>, <strong>software engineering fundamentals</strong>, and 
-<strong>building real, well-structured projects</strong>.
+with hands-on experience across <strong>Java</strong>, <strong>web technologies</strong>, 
+<strong>databases</strong>, and <strong>systems-level programming</strong>.
 </p>
 
 <p align="center">
-I use AI as a <em>development accelerator</em> - to improve design, logic, and productivity - 
-while ensuring I fully understand and can explain every line of code I write.
+I focus on writing <strong>clean, understandable code</strong> and use AI as a 
+<strong>development accelerator</strong> — ensuring I fully understand, test, and can explain every solution I build.
 </p>
 
 ---
 
 ## 🎓 About Me
 - 📚 Studying **Bachelor of Computer and Information Sciences (Application Development)**  
-  *(IIE Varsity College / Emeris – South Africa)*
+  *(IIE / Varsity College – South Africa)*
 - 💻 Primary language: **Java**
-- 🧠 Strong interest in **problem-solving, system design, and clean architecture**
-- 🤖 Experienced with **AI-assisted development workflows**
-- 🏅 Former **national-level fencer**, bringing discipline, consistency, and competitive focus into tech
+- 🌐 Web foundations: **HTML & CSS**
+- 🧮 Systems & logic: **C++**
+- 🗄 Data & persistence: **MySQL**
+- 🧠 Strong interest in **problem-solving, software architecture, and scalable systems**
+- 🏅 Former **national-level fencer**, bringing discipline, consistency, and competitive focus into technology
 
 ---
 
 ## 🔭 What I’m Working On
-- Building **Java-based applications** (console & application-focused)
-- Strengthening **OOP, data structures, and logical thinking**
-- Developing a **high-quality GitHub portfolio** aimed at:
+- Building **Java-based applications** with solid OOP principles
+- Developing **full application logic** (input handling, validation, persistence)
+- Strengthening **algorithmic thinking and data structures**
+- Growing a **high-quality GitHub portfolio** aimed at:
   - Internships
   - Junior Software Developer roles
-  - Long-term software engineering growth
+  - Long-term software engineering careers
 
 ---
 
 ## 🌱 Currently Learning & Improving
 - Advanced **Object-Oriented Programming (Java)**
-- Software design principles & best practices
-- Application logic, validation, and data handling
-- **C++** (actively expanding my language stack)
+- Software design principles & clean code practices
+- Database design & querying with **MySQL**
+- Expanding **C++** skills for performance and low-level understanding
 
 ---
 
 ## 👯 Open to Collaboration
-- Java projects (applications, tools, learning-focused systems)
-- Student or early-career open-source projects
-- Collaborative builds where clean code and learning matter
+- Java projects (applications, tools, learning systems)
+- Beginner-to-intermediate open-source contributions
+- Student-led or early-career collaborative builds
 
 ---
 
 ## 📂 Projects & Portfolio
 - 👨‍💻 **Active portfolio in development**
-- Each project will include:
-  - Clear problem statement
+- Every project will include:
+  - Clear problem definition
   - Technical approach
   - Technologies used
   - Key learnings & improvements
@@ -75,18 +78,26 @@ while ensuring I fully understand and can explain every line of code I write.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
          alt="java" width="40" height="40"/>
   </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-         alt="csharp" width="40" height="40"/>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+         alt="cplusplus" width="40" height="40"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-         alt="git" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+         alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+         alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
+         alt="mysql" width="40" height="40"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-<strong>Consistent learning • Real projects • Long-term mastery</strong>
+<strong>Discipline • Real Projects • Long-Term Growth</strong>
 </p>
