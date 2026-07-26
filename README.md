@@ -80,10 +80,10 @@ Second year <strong>BCAD</strong> student specialising in <strong>Application De
 
 | Project | What it is | Built with |
 |---|---|---|
-| **[Turn Based Combat Game](https://github.com/CodiSlim/turn-based-combat-game)** | A full RPG combat engine with a game loop, health and damage systems, and player action menus. Built from scratch as a personal project. | C# / .NET |
+| **[Turn Based Combat Game](https://github.com/CodiSlim/turn-based-combat-game)** | A full RPG combat engine with a game loop, health and damage systems, and player action menus. Built from scratch as a personal project. | JAVA/Terminal |
 | **[Task Manager](https://github.com/CodiSlim/task-manager-csharp)** | CRUD task management application with persistent state and input validation. | C# / .NET |
-| **[Dice Game](https://github.com/CodiSlim/dice-game-csharp)** | Interactive dice game with randomisation logic, score tracking, and win conditions. Game logic kept separate from UI output. | C# / .NET |
-| **[Calculator](https://github.com/CodiSlim/calculator-csharp)** | Arithmetic calculator with robust input validation and error handling. | C# / .NET |
+| **[Dice Game](https://github.com/CodiSlim/dice-game-csharp)** | Interactive dice game with randomisation logic, score tracking, and win conditions. Game logic kept separate from UI output. | JAVA |
+| **[Calculator](https://github.com/CodiSlim/calculator-csharp)** | Arithmetic calculator with robust input validation and error handling. | JAVA |
 
 Every repository includes the problem it solves, the technical approach, the technologies used, and what I would do differently next time.
 
